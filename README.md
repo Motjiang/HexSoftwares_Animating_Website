@@ -24,6 +24,7 @@ Welcome to the **Explore Gqeberha** travel website! This project showcases my ab
 ![Screenshot 2024-12-23 114011](https://github.com/user-attachments/assets/b795ee93-d211-4c31-9955-6f199a8af4ac)
 ![Screenshot 2024-12-23 114024](https://github.com/user-attachments/assets/67bceb4c-5417-401e-99b1-34a618e553bf)
 ![Screenshot 2024-12-23 114044](https://github.com/user-attachments/assets/a4729ba3-64fa-4374-b4d8-1411950ed01a)
+![Screenshot 2024-12-25 004118](https://github.com/user-attachments/assets/532e76c9-5d54-4d22-90b8-ccd3472caaba)
 
 
 ### Mobile View
